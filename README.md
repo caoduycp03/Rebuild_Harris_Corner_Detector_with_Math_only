@@ -3,7 +3,7 @@ This project is in my process of learning about algorithms and traditional compu
 
 Original image:
 
-![image](https://github.com/caoduycp03/Rebuild_Harris_Corner_Detector_with_Math_only/assets/127480964/4e5944f9-b5bf-44ff-b9ac-bbe1d3df3a35)
+![image](https://github.com/caoduycp03/Rebuild_Harris_Corner_Detector_with_Math_only/assets/127480964/6b679b26-ce4c-4011-a52f-885f2a842d81)
 
 Output: 
 
